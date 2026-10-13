@@ -1,10 +1,12 @@
 namespace DataLogging
 {
-    public partial class Form1 : Form
+    public partial class DataLogging : Form
     {
-        public Form1()
+        public DataLogging()
         {
             InitializeComponent();
         }
+
+      
     }
 }
